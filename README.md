@@ -5,3 +5,5 @@ This is based on:
 https://github.com/LucasBassetti/react-native-chatbot
 
 Experimenting Dynamic Steps into the React Native Chat Bot
+
+![Alt text](/DynaChatBot/screenshots/DynaChatBot.png?raw=true "Initial Sample Ouput")
